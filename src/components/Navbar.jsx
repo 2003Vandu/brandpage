@@ -6,7 +6,7 @@ function Navbar() {
     
       <nav className='container'>
           <div>
-          <img src="/Images/brand_logo.png" alt="Brand Logo" />
+          <img src="./Images/brand_logo.png" alt="Brand Logo" />
           </div>
           <ul>
             <li>MENU</li>
